@@ -1,4 +1,4 @@
-## Olá! Eu sou o Jhon Sincero 👋
+## Olá! Eu sou o Jhon 👋
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=jhon-development&show_icons=true&theme=tokyonight&count_private=true)
 
